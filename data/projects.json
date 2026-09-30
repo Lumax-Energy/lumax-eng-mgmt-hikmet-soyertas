@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T14:02:37.568Z",
+  "updatedAt": "2026-09-30T14:02:52.396Z",
   "settings": {
     "taskStatuses": [
       {
@@ -740,7 +740,7 @@
     {
       "id": "proj-wmna76lq9m7e",
       "clientName": "Solareff",
-      "projectName": "Investec Durban",
+      "projectName": "Investec - Durban",
       "projectCode": "",
       "salesOrderNumber": "",
       "poNumber": "",
@@ -814,7 +814,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T13:59:54.794Z",
-      "updatedAt": "2026-09-30T13:59:54.794Z"
+      "updatedAt": "2026-09-30T14:02:49.688Z"
     },
     {
       "id": "proj-vvje70wld1qq",
