@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T14:06:00.040Z",
+  "updatedAt": "2026-09-30T14:06:50.404Z",
   "settings": {
     "taskStatuses": [
       {
@@ -905,7 +905,7 @@
       "invoiceNumber": "",
       "address": "",
       "contactPerson": "",
-      "projectType": "",
+      "projectType": "Ground mount",
       "structureTypes": [
         "GM Steel"
       ],
@@ -970,7 +970,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T14:05:22.188Z",
-      "updatedAt": "2026-09-30T14:05:22.188Z"
+      "updatedAt": "2026-09-30T14:06:47.899Z"
     },
     {
       "id": "proj-tn2fvlq4hc3o",
@@ -1049,6 +1049,84 @@
       "archived": false,
       "createdAt": "2026-09-30T14:05:54.948Z",
       "updatedAt": "2026-09-30T14:05:54.948Z"
+    },
+    {
+      "id": "proj-ibc06t69i4lq",
+      "clientName": "Energy Partners Power",
+      "projectName": "De Keur Rocklands - Western Cape",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Ground mount",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-5rpmz46oi4lq",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-1nzpno4ji4lq",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-nxnn0hy2i4lq",
+          "name": "Design"
+        },
+        {
+          "id": "phase-p193pl2ii4lq",
+          "name": "Check"
+        },
+        {
+          "id": "phase-i1morloci4lq",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-6pfn34emi4lq",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-nfi49mimi4lq",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-c8pau92li4lq",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-6xezku4di4lq",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T14:06:31.886Z",
+      "updatedAt": "2026-09-30T14:06:31.886Z"
     }
   ],
   "tasks": []
