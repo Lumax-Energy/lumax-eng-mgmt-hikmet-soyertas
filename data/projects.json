@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T14:06:50.404Z",
+  "updatedAt": "2026-09-30T14:06:58.324Z",
   "settings": {
     "taskStatuses": [
       {
@@ -983,7 +983,7 @@
       "invoiceNumber": "",
       "address": "",
       "contactPerson": "",
-      "projectType": "",
+      "projectType": "Ground mount",
       "structureTypes": [
         "GM Steel"
       ],
@@ -1048,7 +1048,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T14:05:54.948Z",
-      "updatedAt": "2026-09-30T14:05:54.948Z"
+      "updatedAt": "2026-09-30T14:06:56.501Z"
     },
     {
       "id": "proj-ibc06t69i4lq",
