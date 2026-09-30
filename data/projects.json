@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T14:02:52.396Z",
+  "updatedAt": "2026-09-30T14:04:00.039Z",
   "settings": {
     "taskStatuses": [
       {
@@ -428,7 +428,7 @@
     {
       "id": "proj-5zk6m6kdyyxy",
       "clientName": "Terra Firma",
-      "projectName": "The City Shopping Centre",
+      "projectName": "The City Shopping Centre - Pretoria",
       "projectCode": "",
       "salesOrderNumber": "",
       "poNumber": "",
@@ -501,12 +501,12 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T13:51:38.086Z",
-      "updatedAt": "2026-09-30T13:51:38.086Z"
+      "updatedAt": "2026-09-30T14:03:17.034Z"
     },
     {
       "id": "proj-x793bdit32h8",
       "clientName": "Terra Firma",
-      "projectName": "Cell C Head Office",
+      "projectName": "Cell C Head Office - Midrand",
       "projectCode": "",
       "salesOrderNumber": "",
       "poNumber": "",
@@ -579,7 +579,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T13:54:49.292Z",
-      "updatedAt": "2026-09-30T13:54:49.293Z"
+      "updatedAt": "2026-09-30T14:03:07.381Z"
     },
     {
       "id": "proj-xkq3e0uc4ubl",
@@ -662,7 +662,7 @@
     {
       "id": "proj-f5mrj6pa62qs",
       "clientName": "Terra Firma",
-      "projectName": "Bushbuckridge",
+      "projectName": "Bushbuckridge - Mpumalanga",
       "projectCode": "",
       "salesOrderNumber": "",
       "poNumber": "",
@@ -735,7 +735,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T13:57:09.604Z",
-      "updatedAt": "2026-09-30T13:57:09.604Z"
+      "updatedAt": "2026-09-30T14:03:57.886Z"
     },
     {
       "id": "proj-wmna76lq9m7e",
