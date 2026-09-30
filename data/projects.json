@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T14:04:00.039Z",
+  "updatedAt": "2026-09-30T14:06:00.040Z",
   "settings": {
     "taskStatuses": [
       {
@@ -350,7 +350,7 @@
     {
       "id": "proj-bwm8knhnxi4w",
       "clientName": "Energy Partners Power",
-      "projectName": "De Keur - Leeuwrivier",
+      "projectName": "De Keur Leeuwrivier - Western Cape",
       "projectCode": "",
       "salesOrderNumber": "",
       "poNumber": "",
@@ -423,7 +423,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-09-30T13:50:29.648Z",
-      "updatedAt": "2026-09-30T13:50:29.648Z"
+      "updatedAt": "2026-09-30T14:04:39.639Z"
     },
     {
       "id": "proj-5zk6m6kdyyxy",
@@ -893,6 +893,162 @@
       "archived": false,
       "createdAt": "2026-09-30T14:02:34.898Z",
       "updatedAt": "2026-09-30T14:02:34.898Z"
+    },
+    {
+      "id": "proj-c2dm4980gmto",
+      "clientName": "Energy Partners Power",
+      "projectName": "De Keur Grootdam - Western Cape",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-piqzhxeogmto",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-01npgx8agmto",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-m4zu6njtgmto",
+          "name": "Design"
+        },
+        {
+          "id": "phase-wf4u3lxvgmto",
+          "name": "Check"
+        },
+        {
+          "id": "phase-9acpnwgggmto",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-ia2n1lptgmto",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-l83d0yuhgmto",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-fuf2321agmto",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-kvqh174ogmto",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T14:05:22.188Z",
+      "updatedAt": "2026-09-30T14:05:22.188Z"
+    },
+    {
+      "id": "proj-tn2fvlq4hc3o",
+      "clientName": "Energy Partners Power",
+      "projectName": "De Keur Tierdam - Western Cape",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-8r2t8vvdhc3o",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-um8uwls0hc3o",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-jf66368fhc3o",
+          "name": "Design"
+        },
+        {
+          "id": "phase-508ftlmhhc3o",
+          "name": "Check"
+        },
+        {
+          "id": "phase-xln9l8vihc3o",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-y9tmpwnnhc3o",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-wqnctwyzhc3o",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-viboyxgnhc3o",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-w4truw5ahc3o",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T14:05:54.948Z",
+      "updatedAt": "2026-09-30T14:05:54.948Z"
     }
   ],
   "tasks": []
