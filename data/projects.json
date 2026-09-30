@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T13:52:39.752Z",
+  "updatedAt": "2026-09-30T14:02:37.568Z",
   "settings": {
     "taskStatuses": [
       {
@@ -98,7 +98,8 @@
       "SAT tracker",
       "Rooftop ballast",
       "Rooftop flush mount",
-      "Custom"
+      "Custom",
+      "Custom Rooftop Mini-Carport"
     ],
     "engineerDefaults": {
       "name": "Demo Pr. Eng. (SAMPLE)",
@@ -501,6 +502,397 @@
       "archived": false,
       "createdAt": "2026-09-30T13:51:38.086Z",
       "updatedAt": "2026-09-30T13:51:38.086Z"
+    },
+    {
+      "id": "proj-x793bdit32h8",
+      "clientName": "Terra Firma",
+      "projectName": "Cell C Head Office",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport H-Max"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-kgrpbmma32h8",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-ml279f2m32h8",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-yxztdk8132h8",
+          "name": "Design"
+        },
+        {
+          "id": "phase-a6p7j9al32h8",
+          "name": "Check"
+        },
+        {
+          "id": "phase-q49hmox732h8",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-1b0u3pso32h8",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-acc3v9mb32h8",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-zlpmldtd32h8",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-rruznlj832h8",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:54:49.292Z",
+      "updatedAt": "2026-09-30T13:54:49.293Z"
+    },
+    {
+      "id": "proj-xkq3e0uc4ubl",
+      "clientName": "Amethyst Energy",
+      "projectName": "Project Katiyo - Zimbabwe",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-t2cw3r504ubl",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-odw8ewjm4ubl",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-xnep5z054ubl",
+          "name": "Design"
+        },
+        {
+          "id": "phase-5ha379am4ubl",
+          "name": "Check"
+        },
+        {
+          "id": "phase-bew7buqf4ubl",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-cvarg28x4ubl",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-hy2mw77f4ubl",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-zl73uwxv4ubl",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-x64ubq854ubl",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "n/a",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:56:12.033Z",
+      "updatedAt": "2026-09-30T13:56:12.033Z"
+    },
+    {
+      "id": "proj-f5mrj6pa62qs",
+      "clientName": "Terra Firma",
+      "projectName": "Bushbuckridge",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Econo-Max"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-mblog52m62qs",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-m3k0qejj62qs",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-ztavbj4n62qs",
+          "name": "Design"
+        },
+        {
+          "id": "phase-5cfmhc2l62qs",
+          "name": "Check"
+        },
+        {
+          "id": "phase-tyxnebks62qs",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-obdj3ilc62qs",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-a8le71l962qs",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-hpbafvpx62qs",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-623gwd3f62qs",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "n/a",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:57:09.604Z",
+      "updatedAt": "2026-09-30T13:57:09.604Z"
+    },
+    {
+      "id": "proj-wmna76lq9m7e",
+      "clientName": "Solareff",
+      "projectName": "Investec Durban",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Custom",
+      "structureTypes": [
+        "Custom",
+        "Custom Rooftop Mini-Carport"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-8bkzqpvn9m7e",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-vhw4x8gj9m7e",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-q8b463s09m7e",
+          "name": "Design"
+        },
+        {
+          "id": "phase-zkvo3vom9m7e",
+          "name": "Check"
+        },
+        {
+          "id": "phase-0z53zdt49m7e",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-x7862y6h9m7e",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-y236qd849m7e",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-2mku3q3c9m7e",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-qw2sdo2k9m7e",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:59:54.794Z",
+      "updatedAt": "2026-09-30T13:59:54.794Z"
+    },
+    {
+      "id": "proj-vvje70wld1qq",
+      "clientName": "Go2Engineering",
+      "projectName": "Unicare - Polokwane",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Ergo+"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-s6a7i9rid1qq",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-x5xvqv6od1qq",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-mux5pseed1qq",
+          "name": "Design"
+        },
+        {
+          "id": "phase-h786edc9d1qq",
+          "name": "Check"
+        },
+        {
+          "id": "phase-ocuv2d47d1qq",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-jj9rdyipd1qq",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-6jf1e0xwd1qq",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-qw4kgwhbd1qq",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-xe4ej12ad1qq",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "n/a",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T14:02:34.898Z",
+      "updatedAt": "2026-09-30T14:02:34.898Z"
     }
   ],
   "tasks": []
