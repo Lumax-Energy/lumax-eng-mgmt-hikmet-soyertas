@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T13:40:29.852Z",
+  "updatedAt": "2026-09-30T13:52:39.752Z",
   "settings": {
     "taskStatuses": [
       {
@@ -111,6 +111,397 @@
     "scfSeq": 1,
     "voidedLetters": []
   },
-  "projects": [],
+  "projects": [
+    {
+      "id": "proj-2xls3ozhmo7g",
+      "clientName": "Grey Matter Engineering",
+      "projectName": "Eskom - Academy of Learning",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "Dale Road P/Bag X13, Midrand, 1685",
+      "contactPerson": "Ava Morgan - +27656027768",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport H-Max"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-7fqsvh6emo7g",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-tmoi7e5qmo7g",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-79y5y3z9mo7g",
+          "name": "Design"
+        },
+        {
+          "id": "phase-fllybcflmo7g",
+          "name": "Check"
+        },
+        {
+          "id": "phase-hrri5asmmo7g",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-5c2g2pc5mo7g",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-iqfqmffxmo7g",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-syfpzl2amo7g",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-63hwy80lmo7g",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:42:04.300Z",
+      "updatedAt": "2026-09-30T13:47:55.235Z"
+    },
+    {
+      "id": "proj-r681rzooowdb",
+      "clientName": "Matimba Yeru Energy",
+      "projectName": "Harmony Gold Mine - Mponeng (Doornkop Phase 2)",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Alu-Max"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-3x3ystvqowdb",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-r7wioenzowdb",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-gd7fie6iowdb",
+          "name": "Design"
+        },
+        {
+          "id": "phase-2q95cw2sowdb",
+          "name": "Check"
+        },
+        {
+          "id": "phase-vkt0y5nvowdb",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-43zcju4rowdb",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-yzd3wdjvowdb",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-3j69urvyowdb",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-vlv0pb55owdb",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:43:48.191Z",
+      "updatedAt": "2026-09-30T13:43:48.191Z"
+    },
+    {
+      "id": "proj-l33o0a4dw3f8",
+      "clientName": "Lumax Energy - EEZ",
+      "projectName": "Ergo+ (Single Access, Standard Tilt)",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Ergo+"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-igxsfk8pw3f8",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-wfadbay5w3f8",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-rb77u4kxw3f8",
+          "name": "Design"
+        },
+        {
+          "id": "phase-2uaygx04w3f8",
+          "name": "Check"
+        },
+        {
+          "id": "phase-s1m8axqiw3f8",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-2902uhzxw3f8",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-tlu2ceqsw3f8",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-zbd2d05uw3f8",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-71fw93ujw3f8",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "n/a",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:49:23.924Z",
+      "updatedAt": "2026-09-30T13:49:23.924Z"
+    },
+    {
+      "id": "proj-bwm8knhnxi4w",
+      "clientName": "Energy Partners Power",
+      "projectName": "De Keur - Leeuwrivier",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Ground mount",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-xgw5eo1wxi4w",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-cdys7bg1xi4w",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-bif8phrlxi4w",
+          "name": "Design"
+        },
+        {
+          "id": "phase-45kmjp41xi4w",
+          "name": "Check"
+        },
+        {
+          "id": "phase-e6gpcl3cxi4w",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-pjwfxkdqxi4w",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-097st6myxi4w",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-vnkv184bxi4w",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-fqp4qyk3xi4w",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:50:29.648Z",
+      "updatedAt": "2026-09-30T13:50:29.648Z"
+    },
+    {
+      "id": "proj-5zk6m6kdyyxy",
+      "clientName": "Terra Firma",
+      "projectName": "The City Shopping Centre",
+      "projectCode": "",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Ergo+"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-oh3djg61yyxy",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-dyixvglxyyxy",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-shafhv47yyxy",
+          "name": "Design"
+        },
+        {
+          "id": "phase-aau1q19ayyxy",
+          "name": "Check"
+        },
+        {
+          "id": "phase-howbhqk4yyxy",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-vzruczxfyyxy",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-1rrssknayyxy",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-6xkccigwyyxy",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-vx3oazmlyyxy",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-09-30T13:51:38.086Z",
+      "updatedAt": "2026-09-30T13:51:38.086Z"
+    }
+  ],
   "tasks": []
 }
